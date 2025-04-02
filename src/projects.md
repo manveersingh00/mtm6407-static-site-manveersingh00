@@ -7,7 +7,7 @@ title: "Projects"
 Here are some of my recent projects:
 
 ## **Portfolio Website**
-🛠 Built with Vue, VuePress | **Live Demo:** [Link](#)
+🛠 Built with Vue, VuePress | **Live Demo:** [Link](https://manveerportfolio.netlify.app)
 
 ## **Contact Book**
 🛠 Vue, Vite | **Live Demo:** [Link](https://tiny-alpaca-81f153.netlify.app/) | **Code:** [GitHub](https://github.com/manveersingh00/manveer-contactbook)
