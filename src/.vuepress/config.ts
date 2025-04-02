@@ -8,6 +8,7 @@ export default defineUserConfig({
   title: "Manveer Singh",
   description: "A personal portfolio created with VuePress",
   theme: hopeTheme({
+    darkmode: "disable",
     navbar: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about.html" },
