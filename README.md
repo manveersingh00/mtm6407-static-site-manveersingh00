@@ -2,4 +2,4 @@
 
 **Student Number:** 041129347 
 
-**Static Site Generator:** 
+**Static Site Generator:** Vuepress
